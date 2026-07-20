@@ -1,0 +1,12 @@
+sector: 63
+planet: erekir
+difficulty: 4
+research: {
+        parent: "mod-for-elder-2arrival"
+        objectives: [
+            {
+                type: "SectorComplete"
+                preset: "mod-for-elder-2arrival"
+            }
+        ]
+    }

@@ -1,0 +1,12 @@
+sector: 5
+planet: erekir
+difficulty: 4
+research: {
+        parent: "mod-for-elder-4meltdown"
+        objectives: [
+            {
+                type: "SectorComplete"
+                preset: "mod-for-elder-4meltdown"
+            }
+        ]
+    }

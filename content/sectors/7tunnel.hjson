@@ -1,0 +1,12 @@
+sector: 46
+planet: erekir
+difficulty: 6
+research: {
+        parent: "mod-for-elder-6goldenpits"
+        objectives: [
+            {
+                type: "SectorComplete"
+                preset: "mod-for-elder-6goldenpits"
+            }
+        ]
+    }

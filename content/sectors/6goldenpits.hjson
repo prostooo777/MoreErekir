@@ -1,0 +1,12 @@
+sector: 70
+planet: erekir
+difficulty: 6
+research: {
+        parent: "mod-for-elder-5caliopsa"
+        objectives: [
+            {
+                type: "SectorComplete"
+                preset: "mod-for-elder-5caliopsa"
+            }
+        ]
+    }

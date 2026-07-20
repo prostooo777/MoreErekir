@@ -1,0 +1,12 @@
+sector: 69
+planet: erekir
+difficulty: 8
+research: {
+        parent: "mod-for-elder-7tunnel"
+        objectives: [
+            {
+                type: "SectorComplete"
+                preset: "mod-for-elder-7tunnel"
+            }
+        ]
+    }

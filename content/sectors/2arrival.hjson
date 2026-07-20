@@ -1,0 +1,12 @@
+sector: 27
+planet: erekir
+difficulty: 1
+research: {
+        parent: "mod-for-elder-1ambush"
+        objectives: [
+            {
+                type: "SectorComplete"
+                preset: "mod-for-elder-1ambush"
+            }
+        ]
+    }
