@@ -1,0 +1,12 @@
+sector: 32
+planet: erekir
+difficulty: 8
+research: {
+        parent: "mod-for-elder-8sacral"
+        objectives: [
+            {
+                type: "SectorComplete"
+                preset: "mod-for-elder-8sacral"
+            }
+        ]
+    }

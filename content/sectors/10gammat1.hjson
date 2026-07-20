@@ -1,0 +1,12 @@
+sector: 45
+planet: erekir
+difficulty: 10
+research: {
+        parent: "mod-for-elder-9degradation"
+        objectives: [
+            {
+                type: "SectorComplete"
+                preset: "mod-for-elder-9degradation"
+            }
+        ]
+    }

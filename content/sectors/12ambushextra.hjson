@@ -1,0 +1,12 @@
+sector: 23
+planet: erekir
+difficulty: 6
+research: {
+        parent: "mod-for-elder-11alphat7"
+        objectives: [
+            {
+                type: "SectorComplete"
+                preset: "mod-for-elder-11alphat7"
+            }
+        ]
+    }

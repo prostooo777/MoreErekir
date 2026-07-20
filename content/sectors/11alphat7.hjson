@@ -1,0 +1,12 @@
+sector: 67
+planet: erekir
+difficulty: 10
+research: {
+        parent: "mod-for-elder-10gammat1"
+        objectives: [
+            {
+                type: "SectorComplete"
+                preset: "mod-for-elder-10gammat1"
+            }
+        ]
+    }
