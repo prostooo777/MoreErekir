@@ -1,0 +1,18 @@
+captureWave: 2
+difficulty: 8
+alwaysUnlocked: false
+addStartingItems: false
+startWaveTimeMultiplier: 1
+useAI: false
+showSectorLandInfo: true
+planet: erekir
+sector: 1
+research: {
+        parent: "origin"
+        objectives: [
+            {
+                type: "SectorComplete"
+                preset: "origin"
+            }
+        ]
+    }
