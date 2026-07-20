@@ -3,8 +3,8 @@
 	"displayName": "More Erekir!",
 	"author": "[#005050]kru[#007070]caa[#009090]aa[white] and [lime] [#6A00FF]Эл[#AA00FF]де[#FF00CC]р",
 	"description": "[#005050]kru[#007070]caa[#009090]aa[white] - mod\n[lime] [#6A00FF]El[#AA00FF]de[#FF00CC]r[white] - maps.\n \n \n \n \nSomething is wrong... You found another 12 sectors to capture... I wish you good luck.\n \n    -Sincerely, [#005050]kru[#007070]caa[#009090]aa",
-	"version": "1.0",
-	"minGameVersion": "158",
+	"version": "1.01",
+	"minGameVersion": "159",
 	"icon": "icon.png",
 	"hidden": true
 }
